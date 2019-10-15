@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mysql-exersices.iml" filepath="$PROJECT_DIR$/.idea/mysql-exersices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/far.iml" filepath="$PROJECT_DIR$/.idea/far.iml" />
     </modules>
   </component>
 </project>
